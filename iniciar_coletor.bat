@@ -1,3 +1,3 @@
-cd C:\Users\apare\OneDrive\Documentos\scripts
+cd C:\Users\seu\caminho\depasta\scripts
 python satsfaucet_bot.py
 pause
