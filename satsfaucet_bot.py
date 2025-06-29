@@ -6,7 +6,7 @@ from selenium.common.exceptions import NoSuchElementException
 import time
 
 # Caminho do chromedriver
-chrome_path = "C:\\Users\\apare\\OneDrive\\Documentos\\scripts\\chromedriver.exe"
+chrome_path = "C:\\Users\\seucaminho\\depasta\\aqui\\chromedriver.exe"
 
 # Opções do navegador
 options = Options()
